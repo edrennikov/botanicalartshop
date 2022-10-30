@@ -16,9 +16,9 @@ Thank you!<br />
 <h4>Contact</h4>
 
 Tallinn, Estonia, 10114<br />
-Mail: <a class="App-link" href="mailto://artist@botanicalartshop.com">artist@botanicalartshop.com</a><br />
+Mail: <a href="mailto://artist@botanicalartshop.com">artist@botanicalartshop.com</a><br />
 <br />
-© 2022. Botanical Art Shop.
+<span class="copyright">© 2022. Botanical Art Shop.</span>
     </div>
   );
 }

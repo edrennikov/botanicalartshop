@@ -18,3 +18,8 @@
 a {
   color: blue;
 }
+
+.copyright {
+  color: #808080;
+  font-size: calc(6.66px + 1.66vmin);
+}
