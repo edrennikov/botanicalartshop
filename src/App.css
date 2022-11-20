@@ -23,3 +23,7 @@ a {
   color: #808080;
   font-size: calc(6.66px + 1.66vmin);
 }
+
+.header {
+  font-size: calc(15px + 3vmin);
+}
